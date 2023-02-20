@@ -1,0 +1,54 @@
+header {
+    font-size: 70px ;
+    font-family: 'Paytone One', sans-serif;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(25, 33, 80);
+
+
+}
+body{
+    padding: 24px;
+}
+
+
+aside{
+    border: 5px ;
+    height: 150px;
+    width: 30%;
+    margin: none;
+}
+.idea{
+    position: relative;
+    left: 24px;
+    top: auto;
+    right: 0%;
+    color: rgb(19, 19, 77);
+    font-family: 'Marcellus', serif;
+    font-size: xx-large;
+    text-align: justify;
+
+}
+.texto{
+    position: relative;
+    left: auto;
+    top: 0%;
+    color: rgb(19, 19, 77);
+    font-family: 'Lexend', sans-serif;
+    font-size:large;
+    margin: 0%;
+
+}
+.centro{
+    text-align: justify;
+    left: 40%;
+    position: relative;
+    grid-gap: 3rem;
+    display: grid;
+    gap: 3rem;
+    border: 5px;
+    height: auto;
+    width: 50%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: x-large;
+}
